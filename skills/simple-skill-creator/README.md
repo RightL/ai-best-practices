@@ -10,9 +10,9 @@ The insight is simple: **the more you constrain the format, the less the AI thin
 
 ## What It Does
 
-Creates a skill as a single `SKILL.md` with only:
+Creates or updates a skill as a single `SKILL.md` with only:
 - YAML frontmatter: `name` and `description`
-- One paragraph body with the actual instructions
+- A short, flat bullet-point body with the actual instructions
 
 That's it. No extra files, no resource folders, no rigid sections unless you explicitly ask.
 
